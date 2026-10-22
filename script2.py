@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 
 # Твой персональный токен
-BOT_TOKEN = "8714744288:AAEo7DTlif81TGr1YZXGL8XWg_ctQGXuPDc"
+BOT_TOKEN = "YOUR_tellegram_TOKEN"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
